@@ -6368,7 +6368,7 @@
     "MusicBoxSilence": "音乐盒（静寂）"
   },
   "ItemTooltip": {
-    
+    "RedDye": "红染料\n[i:1007]+[i:1037]=[i:1038]淡红染料",
     "Daybloom": "太阳花会在白天期间(上午4:30至下午7.29开花",
     "Moonglow": "月光草会在夜间(下午7:30至上午4:29)开花",
     "Blinkroot": "闪耀根会全天随机开花或不开花",
@@ -8000,7 +8000,7 @@
     "BloodEelBanner": "{$CommonItemTooltip.BannerBonus}{$NPCName.BloodEelHead}",
     "GoblinSharkBanner": "{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinShark}",
     "BloodNautilusBanner": "{$CommonItemTooltip.BannerBonus}{$NPCName.BloodNautilus}",
-    "WitchBroom": "召唤一个可骑乘的女巫扫帚\n水平移动:46\n向上飞行:41\n斜向飞行:62\n扫帚前面悬挂的灯笼还会提供少量的光\n“Master Spark！”",
+    "WitchBroom": "召唤一个可骑乘的女巫扫帚\n飞行时间:∞\n水平移动:46\n向上飞行:41\n斜向飞行:62\n扫帚前面悬挂的灯笼还会提供少量的光\n“Master Spark！”",
     "BirdieRattle": "召唤鸟妖宝宝\n“不是针对你的普通鹦鹉”",
     "ExoticEasternChewToy": "召唤耳廓狐\n“它会发出96千赫的吱吱声！”",
     "NightsEdge": "挥舞时散发紫色光环\n用于升级为[i:675]\n“我还是喜欢白天”",
