@@ -7204,7 +7204,7 @@
     "SkiphsWings": "{$CommonItemTooltip.DevItem}\n{$CommonItemTooltip.FlightAndSlowfall}\n飞行时间：2.5s\n飞行高度：77\n最大水平速度：36mph\n水平加速倍率：1\n垂直倍率：1.5",
     "SliceOfCake": "{$CommonItemTooltip.UseableWhenPlaced}\n“你大快朵颐。其他人大快朵颐。管它呢。”",
     "SlimeGun": "喷出一股粘液，可以点亮大多数灯\n被粘液覆盖的玩家和生物会受到更多的火焰伤害\n在微光中嬗变为[i:5495]",
-    "SlimySaddle": "\n召唤史莱姆坐骑\n40召唤伤害,普通击退力\n水平移动:21\n可踩踏敌人\n允许你按住跳跃连跳\n可以浮在水面上\n摔落速度+100%,减少50%摔落伤害\n“亡了，亡了！”",
+    "SlimySaddle": "召唤史莱姆坐骑\n40召唤伤害,普通击退力\n水平移动:21\n可踩踏敌人\n允许你按住跳跃连跳\n可以浮在水面上\n摔落速度+100%,减少50%摔落伤害\n“亡了，亡了！”",
     "SnowCloudBlock": "{$CommonItemTooltip.PreventFallDamage}",
     "SnowFallBlock": "比雪球冷多了",
     "SnowFallWall": "比雪球冷多了",
